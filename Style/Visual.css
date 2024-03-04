@@ -95,3 +95,12 @@ header{
     background-color: #6252ce;
     color:#caa6b5;
 }
+
+.VisualBox{
+    box-shadow: 12px 10px 10px 12px gray;
+    cursor: pointer;
+}
+
+.colorTicket{
+    box-shadow: 10px 10px 10px 10px gray;
+}
